@@ -1,0 +1,5 @@
+include ':app', ':sceneform', ':ux'
+
+//project(':sceneform').projectDir=new File('../../sceneformsrc/sceneform')
+//
+//project(':sceneformux').projectDir=new File('../../sceneformux/ux')
